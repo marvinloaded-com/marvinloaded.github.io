@@ -1,0 +1,402 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Marvinloaded</title>
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=20.0)">
+<script language="JavaScript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+<meta name="Microsoft Theme" content="balance 1011">
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'button5.jpg', /*url*/'button6.jpg', /*url*/'button8.jpg', /*url*/'button9.jpg', /*url*/'buttonB.jpg', /*url*/'buttonC.jpg', /*url*/'buttonE.jpg', /*url*/'buttonF.jpg', /*url*/'button11.jpg', /*url*/'button12.jpg')">
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="1001" height="687">
+	<!-- MSTableType="layout" -->
+	<tr>
+		<td valign="top" colspan="3" height="93">
+		<!-- MSCellType="ContentHead" -->
+		<p align="center"><b><font face="Cambria" size="7" color="#FF0000">
+Marvinloaded.com</font></b></p>
+		<p align="center"><b><font face="Cambria" size="5" color="#FF0000">
+<marquee width="45%" height="15">Welcome to Marvinloaded</marquee></font></b></p>
+		<p align="center">
+		<img border="0" id="img1" src="button4.jpg" height="20" width="100" alt="Home" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'button5.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'button4.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'button6.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'button5.jpg')" fp-style="fp-btn: Metal Capsule 3" fp-title="Home">
+		<a href="../music/music.htm">
+		<img border="0" id="img2" src="button7.jpg" height="20" width="100" alt="Music" onmouseover="FP_swapImg(1,0,/*id*/'img2',/*url*/'button8.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img2',/*url*/'button7.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img2',/*url*/'button9.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img2',/*url*/'button8.jpg')" fp-style="fp-btn: Metal Capsule 3" fp-title="Music"></a>
+		<a href="../video/video.htm">
+		<img border="0" id="img3" src="buttonA.jpg" height="20" width="100" alt="Video" onmouseover="FP_swapImg(1,0,/*id*/'img3',/*url*/'buttonB.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img3',/*url*/'buttonA.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img3',/*url*/'buttonC.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img3',/*url*/'buttonB.jpg')" fp-style="fp-btn: Metal Capsule 3" fp-title="Video"></a>
+		<img border="0" id="img6" src="button10.jpg" height="20" width="100" alt="Gospel" onmouseover="FP_swapImg(1,0,/*id*/'img6',/*url*/'button11.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img6',/*url*/'button10.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img6',/*url*/'button12.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img6',/*url*/'button11.jpg')" fp-style="fp-btn: Metal Capsule 3" fp-title="Gospel">
+		<img border="0" id="img5" src="buttonD.jpg" height="20" width="100" alt="Freebeat" onmouseover="FP_swapImg(1,0,/*id*/'img5',/*url*/'buttonE.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img5',/*url*/'buttonD.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img5',/*url*/'buttonF.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img5',/*url*/'buttonE.jpg')" fp-style="fp-btn: Metal Capsule 3" fp-title="Freebeat"></p>
+		<p align="center">
+		&nbsp;</p></td>
+	</tr>
+	<tr>
+		<td valign="top" width="333">
+		<!-- MSCellType="NavBody" -->
+				<font size="6" color="#FF0000">
+				<marquee scrollamount="8" height="0" direction="right" behavior="alternate" bgcolor="#0000FF">Hottest Song 
+				</marquee></font><table border="1" width="100%" style="border-width: 0px" id="table1">
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<font color="#FF0000" size="4">
+		<a href="music/mayorkun%20che.htm"><font color="#00FF00">
+		<img border="0" src="Mayorkun-Sope-Picture-200-by-200_2.jpg" width="80" height="80">Mayorkun 
+		Che Che</font></a></font></td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<font color="#00FF00" style="font-size: 16pt; ">
+		<a href="music/oneticket.htm"><font color="#00FF00">
+		<img border="0" src="Kizz-Daniel-Happy-70x70_2.jpg" width="80" height="80">kiss 
+		daniel-One ticket</font></a></font></td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<font color="#00FF00"><span style="font-size: 16pt">
+				<a href="music/bum%20bum.htm"><font color="#00FF00">
+				<img border="0" src="Bum-Bum-Artwork-70x70-1_2.jpg" width="80" height="80">Bum 
+		Bum</font></a></span></font></td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<a href="music/cudpea.htm">
+		<font color="#00FF00" style="font-size: 16pt; ">
+		<img border="0" src="J_2.png" width="80" height="80">cudpea - Street 
+		prayer</font></a></td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<a href="music/surrender.htm">
+		<font color="#00FF00" style="font-size: 16pt; ">
+		<img border="0" src="../../Marvinloaded2/home/Screenshot_2019-01-23-Mr-Eazi-Miss-You-Bad-Youtube-Google-Se.png" width="80" height="80">Mr. 
+		Eazi- Surrender</font></a></td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<font color="#00FF00" style="font-size: 16pt"><u>
+		<a href="music/talk.htm">
+		<img border="0" src="Screenshot_2019-01-11-Audio-Video-Falz-Talk--tooXclusive-MP3_2.png" width="80" height="80"><font color="#00FF00">Falz-Talk</font></a></u></font></td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<font color="#00FF00" style="font-size: 12pt; ">
+		<a href="music/Victor-AD-Wetin-We-Gain-Rap-Version.mp3">
+		<font color="#00FF00">
+		<img border="0" src="../../Marvinloaded2/home/Victor-AD-Ft-Davido-Picture-Artwork-70x70.jpg" width="80" height="80">Victor-AD-Wetin-We-Gain-Rap-Version</font></a></font></td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<div style="position: absolute; left: 37px; top: 1630px; width: 140px; height: 138px; z-index: 1" id="layer1">
+			<object classid="clsid:6BF52A52-394A-11D3-B153-00C04F79FAA6" id="WindowsMediaPlayer1" width="131" height="128">
+				<param name="URL" value="C:\marvinloade.com\home\Frank-Edwards-Under-The-Canopy.mp3">
+				<param name="rate" value="1">
+				<param name="balance" value="0">
+				<param name="currentPosition" value="0">
+				<param name="defaultFrame" value>
+				<param name="playCount" value="1">
+				<param name="autoStart" value="0">
+				<param name="currentMarker" value="0">
+				<param name="invokeURLs" value="-1">
+				<param name="baseURL" value>
+				<param name="volume" value="50">
+				<param name="mute" value="0">
+				<param name="uiMode" value="mini">
+				<param name="stretchToFit" value="0">
+				<param name="windowlessVideo" value="0">
+				<param name="enabled" value="-1">
+				<param name="enableContextMenu" value="-1">
+				<param name="fullScreen" value="0">
+				<param name="SAMIStyle" value>
+				<param name="SAMILang" value>
+				<param name="SAMIFilename" value>
+				<param name="captioningID" value>
+				<param name="enableErrorDialogs" value="0">
+			</object>
+		</div>
+		<a href="music/Kcee%20-Bullion-Squad.htm">
+		<font color="#00FF00" style="font-size: 16pt">
+		<img border="0" src="Kcee-Ft-Timaya--Erima-70x70_2.png" width="80" height="80">Kcee 
+		-Bullion-Squad</font></a></td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<font color="#00FF00" size="4">
+		<a href="music/Dj-Xclusive%20-%20Issa%20goal%20freestyle.htm">
+		<font color="#00FF00">
+		<img border="0" src="../../Marvinloaded2/home/Screenshot_2019-01-25-DJ-Mixtape-Google-Search-70x70.png" width="80" height="80">Dj-Xclusive 
+		- Issa goal freestyle</font></a></font></td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<font color="#00FF00" style="font-size: 16pt">
+		<a href="music/Teni%20Case.htm"><font color="#00FF00">
+		<img border="0" src="../../Marvinloaded2/home/ceeza-x-teni-70x70.jpg" width="80" height="80">Teni 
+		Case</font></a></font></td>
+	</tr>
+	<tr>
+		<td valign="baseline" align="left" style="border-style: none; border-width: medium">
+		<font color="#00FF00" style="font-size: 16pt">
+		<a href="music/teni-x-phyno%20--Pray.htm"><font color="#00FF00">
+		<img border="0" src="Teni-Gele-Picture-70x70_2.jpg" width="80" height="80">teni-x-phyno 
+		--Pray</font></a></font></td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<font color="#00FF00"><span style="font-size: 16pt; ">
+		<a href="music/Davido%20Aza.htm"><font color="#00FF00">
+		<img border="0" src="Popcaan-ft_2.jpg" width="80" height="80">Davido Aza</font></a></span></font></td>
+	</tr>
+</table>
+		</td>
+		<td valign="top" width="332">
+		<!-- MSCellType="ContentBody" -->
+				<font size="6" color="#FF0000">
+				<marquee scrollamount="8" height="0" direction="right" behavior="alternate" bgcolor="#0000FF">Hottest Video</marquee></font><table border="1" width="100%" style="border-width: 0px" id="table2">
+		<tr>
+			<td style="border-style: none; border-width: medium">
+				<a href="cool_video/Pay%20Back.htm">
+				<font color="#00FF00" style="font-size: 16pt; ">
+				<img border="0" src="backgrounds/149.jpg" width="80" height="60"></font><span style="font-size: 16pt"><font color="#00FF00">Pay 
+				Back</font></span></a></td>
+		</tr>
+		<tr>
+			<td style="border-style: none; border-width: medium">
+				<font color="#00FF00" style="font-size: 16pt; ">
+				<a href="cool_video/World%20Best%20Fool.htm">
+				<img border="0" src="backgrounds/2010-07-28%20larabar,suya2.jpg" width="80" height="61"></a></font><a href="cool_video/World%20Best%20Fool.htm"><font color="#00FF00" style="font-size: 16pt">World 
+				Best Fool</font></a></td>
+		</tr>
+		<tr>
+			<td style="border-style: none; border-width: medium">
+				<a href="cool_video/Smack%20down.htm">
+				<font color="#00FF00" style="font-size: 16pt">
+				<img border="0" src="backgrounds/101.jpg" width="80" height="60">Smack 
+				down</font></a></td>
+		</tr>
+		<tr>
+			<td style="border-style: none; border-width: medium">
+				<a href="cool_video/Drummer.htm">
+				<font color="#00FF00" style="font-size: 16pt; ">
+				<img border="0" src="500301200600758_2.jpg" width="81" height="62">Drummer</font></a></td>
+		</tr>
+		<tr>
+			<td style="border-style: none; border-width: medium">
+			<font color="#00FF00">
+			<a href="cool_video/speach%20at%20synagogue.htm">
+			<font color="#00FF00" style="font-size: 16pt">
+			<img border="0" src="0A80256D_C1FB8764_9858.jpg" width="80" height="80"></font></a></font><a href="cool_video/speach%20at%20synagogue.htm"><font color="#00FF00" style="font-size: 14pt">speach 
+			at synagogue</font></a></td>
+		</tr>
+		<tr>
+			<td style="border-style: none; border-width: medium">
+			<font color="#00FF00" style="font-size: 16pt">
+			<a href="cool_video/World%20Best%20Fool.htm"><font color="#00FF00">
+			<img border="0" src="backgrounds/26.jpg" width="80" height="60"></font></a></font><font size="5" color="#00FF00"><a href="cool_video/World%20Best%20Fool.htm"><font color="#00FF00">World Best Fool</font></a></font></td>
+		</tr>
+		<tr>
+			<td style="border-style: none; border-width: medium">
+			<font color="#00FF00" style="font-size: 16pt">
+			<a href="cool_video/Xploit%20-Dog%20Zone.htm"><font color="#00FF00">
+			<img border="0" src="backgrounds/30.jpg" width="80" height="60">Xploit 
+				-Dog Zone</font></a></font></td>
+		</tr>
+		<tr>
+			<td style="border-style: none; border-width: medium">
+				<font color="#00FF00"><span style="font-size: 16pt">
+				<a href="cool_video/After%20Election.htm">
+				<img border="0" src="backgrounds/42-15251653.jpg" width="80" height="55"><font color="#00FF00">After 
+				Election</font></a></span></font></td>
+		</tr>
+		<tr>
+			<td style="border-style: none; border-width: medium">
+				<font color="#00FF00" style="font-size: 16pt; ">
+				<a href="cool_video/10%20DAY%20IN%20SUNCITY%20V7-1.htm">
+				<font color="#00FF00">
+				<img border="0" src="backgrounds/50bb56906f0decaddbe733ba3c4027.jpg" width="80" height="60"></font></a></font><a href="cool_video/10%20DAY%20IN%20SUNCITY%20V7-1.htm"><font color="#00FF00" style="font-size: 14pt; ">10 
+				DAY IN SUNCITY V7-1</font></a></td>
+		</tr>
+		<tr>
+			<td style="border-style: none; border-width: medium" height="44">
+				<font color="#00FF00"><span style="font-size: 16pt">
+				<a href="cool_video/Virgin%20justice%20pt.1.htm">
+				<font color="#00FF00">
+				<img border="0" src="backgrounds/62.jpg" width="80" height="50">Virgin 
+				justice pt.1</font></a></span></font></td>
+		</tr>
+		<tr>
+			<td style="border-style: none; border-width: medium">
+			<font color="#00FF00"><span style="font-size: 16pt">
+			<a href="cool_video/9f2e17a700cc6f7bb8.htm"><font color="#00FF00">
+			<img border="0" src="backgrounds/802023.JPG" width="80" height="53">9f2e17a700cc6f7bb8</font></a></span></font></td>
+		</tr>
+		</table>
+	<p align="center">&nbsp;</p>
+		<p align="center">&nbsp;</p>
+		<p align="center">&nbsp;</p>
+		<p align="center">&nbsp;</p>
+		<p align="center">&nbsp;</p>
+		<p align="center"><u><b><font size="4" color="#FF0000" face="Cambria">
+				Featured Video of The Week</font></b></u></p>
+	<p align="center">
+	<img border="0" src="IMG_20190108_124512_2.jpg" width="100" height="177"></p>
+	<p align="center" style="line-height: 150%">
+	<font size="4" color="#FFFF00" face="Cambria">
+				Xavier Marvin live Jazz Entertainment</font></p>
+		<p align="center" style="line-height: 150%">
+	<font color="#0000FF" size="4">
+	<a href="../../Marvinloaded2/home/video_2018-08-22T13.58.56.mp4">Download Here</a></font></p>
+		<p align="center">
+	&nbsp;</p>
+		<p>&nbsp;</td>
+		<td valign="top" height="531" width="336">
+		<!-- MSCellType="NavBody2" -->
+				<font size="6" color="#FF0000">
+				<marquee scrollamount="8" height="0" direction="right" behavior="alternate" bgcolor="#0000FF">Hottest Gospel</marquee></font><table border="1" width="100%" id="table5" style="border-width: 0px">
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<a href="gospel/Frank-Edwards-Under-The-Canopy.htm">
+				<font color="#00FF00">
+				<img border="0" src="backgrounds/01n100124_HAITI.jpg" width="80" height="50"></font><font color="#00FF00" size="2">Frank-Edwards-Under-The-Canopy</font></a></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<font color="#00FF00">
+				<a href="gospel/Frank-Edward-Who-Run-Things.htm">
+				<img border="0" src="backgrounds/01n100124_HAITI.jpg" width="80" height="50"></a></font><a href="gospel/Frank-Edward-Who-Run-Things.htm"><font color="#00FF00" size="2">Frank-Edward-Who-Run-Things</font></a></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<a href="gospel/Frank_Edwards_Thy_Will_Be_Done.htm">
+				<font color="#00FF00">
+				<img border="0" src="backgrounds/01n100124_HAITI.jpg" width="80" height="50"></font><font color="#00FF00" size="2">Frank_Edwards_Thy_Will_Be_Done-</font></a></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<font color="#00FF00">
+				<a href="gospel/Hallelujah%20ft.%20Eben.htm">
+				<img border="0" src="backgrounds/01n100124_HAITI.jpg" width="80" height="50"></a></font><a href="gospel/Hallelujah%20ft.%20Eben.htm"><font color="#00FF00" style="font-size: 16pt">Hallelujah 
+				ft. Eben</font></a></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<a href="gospel/Baba-feat-Micah-Stampley.htm">
+				<font color="#00FF00">
+				<img border="0" src="backgrounds/01n100124_HAITI.jpg" width="80" height="50"></font><font color="#00FF00" size="4">Baba-feat-Micah-Stampley</font></a></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<font color="#00FF00">
+				<img border="0" src="backgrounds/01n100124_HAITI.jpg" width="80" height="50"><a href="gospel/Ebenebe-feat.-Chinyere-Udoma.htm"><font color="#00FF00">Ebenebe-feat.-Chinyere-Udoma</font></a></font></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<a href="gospel/Frank-Edwards-You-are-Good.htm">
+				<font color="#00FF00">
+				<img border="0" src="backgrounds/01n100124_HAITI.jpg" width="80" height="50">Frank-Edwards-You-are-Good</font></a></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<font color="#00FF00">
+				<a href="gospel/Frank_Edwards_Cry_you_a_river.htm">
+				<font color="#00FF00">
+				<img border="0" src="backgrounds/01n100124_HAITI.jpg" width="80" height="50"></font><font color="#00FF00" size="3">Frank_Edwards_Cry_you_a_river</font></a></font></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<a href="gospel/frank_Edwards_If_God_Be%20For_Me.htm">
+				<font color="#00FF00" style="font-size: 11pt">
+				<img border="0" src="backgrounds/01n100124_HAITI.jpg" width="80" height="50">frank_Edwards_If_God_Be 
+				For_Me</font></a></td>
+			</tr>
+			<tr>
+				<td style="border-style: none; border-width: medium">
+				<a href="gospel/Loving_The_Way_Ft._Ada.htm">
+				<font color="#00FF00" size="3">
+				<img border="0" src="backgrounds/01n100124_HAITI.jpg" width="80" height="50">Loving_The_Way_Ft._Ada-</font></a></td>
+			</tr>
+		</table>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p align="center"><u><b><font size="4" color="#FF0000" face="Cambria">
+				Featured Music of The Week</font></b></u></p>
+	<p align="center">
+	<img border="0" src="IMG_20190108_124512_2.jpg" width="100" height="177"></p>
+		<p align="center">
+	<font size="5" color="#FFFF00">Soft-Money</font></p>
+		<p align="center"><font size="4">
+		<a href="../../Marvinloaded2/home/Soft-Money-prod.-Someshine.mp3">
+		Download Here</a></font></p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="3" height="63">
+		<!-- MSCellType="ContentFoot" -->
+		<p align="center">
+		<font color="#FFFF00">© 2014-2018 Marvin loaded. All Rights Reserved.</font><div align="center">
+	<table border="1" width="64%" cellspacing="1" style="border-width: 0px" id="table3">
+			<tr>
+				<td align="center" style="border-style: none; border-width: medium">
+				<font color="#FFFF00">About us</font></td>
+				<td align="center" style="border-style: none; border-width: medium">
+				<font color="#FFFF00">Content Removal</font></td>
+				<td align="center" style="border-style: none; border-width: medium">
+				<font color="#FFFF00">Privacy Policy</font></td>
+				<td align="center" style="border-style: none; border-width: medium">
+				<font color="#FFFF00">Contact us</font></td>
+			</tr>
+		</table>
+		</div>
+<div align="center">
+		<table border="1" width="48%" cellspacing="1" style="border-width: 0px" id="table4">
+			<tr>
+				<td align="center" width="110" style="border-style: none; border-width: medium">
+				<font color="#FFFF00">Advertise</font></td>
+				<td align="center" style="border-style: none; border-width: medium">
+				<font color="#FFFF00">Request For Music</font></td>
+			</tr>
+		</table>
+		</div>
+		<p align="center"><font color="#FFFF00" size="5">Marvinloaded is not responsible for 
+		the content of external sites.</font><font color="#FFFF00">&nbsp;</font></td>
+	</tr>
+</table>
+
+</body>
+
+</html>
